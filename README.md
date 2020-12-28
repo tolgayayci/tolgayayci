@@ -5,14 +5,43 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- ...
+-  ...
+-  ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+-  ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
-![Tolga's GitHub stats](https://github-readme-stats.vercel.app/api?username=tolgayayci&count_private=true)
+I am Tolga, still studying computer enginering at Gazi University.
+
+![Tolga's GitHub stats](https://github-readme-stats.vercel.app/api?username=tolgayayci&count_private=true&theme=dark&show_icons=true)
+
+### 🔭 I’m currently working on
+
+- Firefox Time Analyzer Extension
+
+### 🌱 I’m currently learning
+
+- Machine Learning
+- Fundamentals of Software Testing
+- Minds & Machines [MIT Course](https://www.edx.org/course/minds-and-machines)
+
+### 👯 I’m looking to collaborate on
+
+- Machine Learning on AWS
+- AI Philosophy
+
+### 📫 How to reach me
+
+- [LinkedIn](https://www.linkedin.com/in/tolgayayci/)
+- [Mail](tolgayayci@protonmail.com)
+
+### 💬 Ask me about
+
+Everything about student chapters
+
+
+
+
