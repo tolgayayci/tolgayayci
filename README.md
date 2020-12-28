@@ -36,7 +36,7 @@ I am Tolga, still studying computer enginering at Gazi University.
 ### 📫 How to reach me
 
 - [LinkedIn](https://www.linkedin.com/in/tolgayayci/)
-- [Mail](tolgayayci@protonmail.com)
+- [Mail](mailto:tolgayayci@protonmail.com)
 
 ### 💬 Ask me about
 
