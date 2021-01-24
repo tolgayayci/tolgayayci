@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 
 I am Tolga, still studying computer enginering at Gazi University.
 
-![Tolga's GitHub stats](https://github-readme-stats.vercel.app/api?username=tolgayayci&count_private=true&theme=dark&show_icons=true)
-
 ### 🔭 I’m currently working on
 
 - Firefox Time Analyzer Extension
