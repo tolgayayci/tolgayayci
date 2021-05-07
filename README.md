@@ -28,7 +28,8 @@ I am Tolga, still studying computer enginering at Gazi University.
 
 ### 👯 I’m looking to collaborate on
 
-- Machine Learning on AWS
+- Chatbots
+- Computer Vision
 - AI Philosophy
 
 ### 📫 How to reach me
