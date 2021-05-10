@@ -23,8 +23,7 @@ I am Tolga, still studying computer enginering at Gazi University.
 ### 🌱 I’m currently learning
 
 - Machine Learning
-- Fundamentals of Software Testing
-- Minds & Machines [MIT Course](https://www.edx.org/course/minds-and-machines)
+- Tensorflow
 
 ### 👯 I’m looking to collaborate on
 
