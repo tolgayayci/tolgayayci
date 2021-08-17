@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 -->
 
 I am Tolga, still studying computer enginering at Gazi University.
-
+<!--
 ### 🔭 I’m currently working on
 
 - Firefox Time Analyzer Extension
-
+-->
 ### 🌱 I’m currently learning
 
 - Machine Learning
