@@ -2,7 +2,7 @@
 
 <!-- **tolgayayci/tolgayayci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-I develop innovative tools and applications for the Web3 ecosystem, building cutting-edge developer tools and designing intuitive user interfaces to simplify interactions with core blockchain technologies.
+I build innovative developer tools and designing intuitive user interfaces to simplify interactions with core blockchain technologies.
 
 ### 🛠 Technologies & Tools
 
